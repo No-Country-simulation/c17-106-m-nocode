@@ -5,10 +5,13 @@
 
 
 
-## Descripción
+### Descripción
 
-## Diseñador:
 
-## Desarrolladores:
+### - Equipo de trabajo:
 
-## QA:
+#### - Diseñador:
+
+#### - Desarrolladores:
+
+#### - QA:
