@@ -30,22 +30,22 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 ## Equipo de trabajo
 
 ### Diseño:
-| Nombre   | Mail                | Github                                  | Linkedin                                |
+| Nombre   | Github                                  | Linkedin                                |
 |----------|---------------------|-----------------------------------------|-----------------------------------------|
-| Ejemplo 1 | Ejemplo1@email.com  | [Github](enlace/al/perfil/github)   | [Linkedin](enlace/al/perfil/linkedin)|
+| Ejemplo 1 | [Github](enlace/al/perfil/github)   | [Linkedin](enlace/al/perfil/linkedin)|
 
 
 ### Desarrollo:
-| Nombre   | Mail                | Github                                  | Linkedin                                |
-|----------|---------------------|-----------------------------------------|-----------------------------------------|
-| Ejemplo 1 | Ejemplo1@email.com  | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
-| Ejemplo 2 | Ejemplo2@email.com  | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
-| Ejemplo 3 | Ejemplo3@email.com  | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Nombre   | Github                                  | Linkedin                                |
+|----------|-----------------------------------------|-----------------------------------------|
+| Ejemplo 1 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Ejemplo 2 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Ejemplo 3 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 ### Tester & QA:
-| Nombre   | Mail                | Github                                  | Linkedin                                |
+| Nombre   | Github                                  | Linkedin                                |
 |----------|---------------------|-----------------------------------------|-----------------------------------------|
-| Ejemplo 1 | Ejemplo1@email.com  | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Ejemplo 1 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 ## Prueba de trabajo
 
