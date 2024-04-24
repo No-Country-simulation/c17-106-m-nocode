@@ -8,10 +8,10 @@
 ### Descripción
 
 
-### - Equipo de trabajo:
+### Equipo de trabajo:
 
-#### - Diseñador:
+#### Diseñador:
 
-#### - Desarrolladores:
+#### Desarrolladores:
 
-#### - QA:
+#### QA:
