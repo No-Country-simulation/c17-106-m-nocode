@@ -1,6 +1,6 @@
 <h1 align="center">c17-106-m-nocode</h1>
 
---------------
+
 
 <p align="center">
   <img src="logos/Logo Playmood.png" alt="Logo del proyecto" width="250">
