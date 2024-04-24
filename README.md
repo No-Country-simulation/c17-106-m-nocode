@@ -32,20 +32,20 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 ### Diseño:
 | Nombre   | Github                                  | Linkedin                                |
 |----------|-----------------------------------------|-----------------------------------------|
-| Ejemplo 1 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Mauro Donatini | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 
 ### Desarrollo:
 | Nombre   | Github                                  | Linkedin                                |
 |----------|-----------------------------------------|-----------------------------------------|
-| Ejemplo 1 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
-| Ejemplo 2 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
-| Ejemplo 3 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Sofia Isoardi Prieto | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Elias David Jacob | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Valentin Noel Hurtado | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 ### Tester & QA:
 | Nombre   | Github                                  | Linkedin                                |
 |----------|-----------------------------------------|-----------------------------------------|
-| Ejemplo 1 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Helen López | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 
 ## Prueba de trabajo
