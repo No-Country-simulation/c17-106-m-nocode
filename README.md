@@ -1,6 +1,6 @@
 # c17-106-m-nocode
 <p align="center">
-  <img src="Logo PLaymood.png" alt="" width="200">
+  <img src="Logo PLaymood.png" alt="" width="250">
   <h5 align="center">Juega con tu estado de animo</h5>
 </p>
 
