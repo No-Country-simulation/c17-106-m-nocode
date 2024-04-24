@@ -1,6 +1,6 @@
 # c17-106-m-nocode
 <p align="center">
-  <img src="Logo Playmood.png" alt="Descripción de la imagen" width="100">
+  <img src="Logo Playmood.png" alt="Descripción de la imagen" width="230">
 </p>
 
 <h1 align="center">PlayMood</h1>
