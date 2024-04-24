@@ -13,12 +13,10 @@
 --------------
 ### Propuesta de valor
 --------------
-
-
-
-
-
-
+### Caracteristicas
+--------------
+### Funcionalidades
+--------------
 ### Equipo de trabajo
 
 #### Diseñador:
@@ -41,3 +39,7 @@
 
 --------------
 ### Tecnologias utilizadas
+--------------
+### Testing
+--------------
+### Futuras adiciones
