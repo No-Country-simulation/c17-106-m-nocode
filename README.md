@@ -9,26 +9,24 @@
 
 
 --------------
-## ¿Que somos?
+## 🕹 ¿Que somos?
 
 Somos un proyecto
 
-## Propuesta de valor
+## 🕹 Propuesta de valor
 
 El propósito de este proyecto es crear un espacio dedicado a los jugadores de videojuegos. Nuestro principal objetivo es ayudarlos a elegir el juego más adecuado según su estado de ánimo, proporcionando recomendaciones de juegos ajustados sus emociones.
 Comprendemos la diversidad de gustos y preferencias entre los jugadores, por lo que también ofrecemos una amplia variedad de géneros de videojuegos, como Role-Playing, Multijugador, Terror/Suspenso, entre otros. Esto permite que los usuarios puedan elegir el tipo de experiencia de juego que más les interese y se adapte a sus necesidades en ese momento. 
 
 Nuestro proyecto está centrado en brindar un servicio integral que no solo ayuda a los jugadores a elegir el juego perfecto para su estado de ánimo, sino que también les ofrece una amplia gama de opciones para satisfacer sus preferencias de género.
 
-## Caracteristicas
+## 🕹 Caracteristicas
 
-## Funcionalidades
+## 🕹 Funcionalidades
 
-## Futuras adiciones
+## 🕹 Futuras adiciones
 
-<h2 align="center">Equipo de trabajo 💼</h2>
-
-
+<h2 align="center">💼 Equipo de trabajo</h2>
 
 ### Diseño:
 | Nombre   | Github                                  | Linkedin                                |
@@ -49,21 +47,16 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 | Helen López | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 
-## Prueba de trabajo
+## 💼 Prueba de trabajo
 
 ### Diseño
 
-
-
 --------------
-
 
 ### Desarrollo
 #### Tecnologias utilizadas
 
-
 --------------
-
 
 ### Testing
 
