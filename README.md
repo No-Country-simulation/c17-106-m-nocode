@@ -3,7 +3,6 @@
   <img src="Logo Playmood.png" alt="Descripción de la imagen" width="230">
 </p>
 
-<h1 align="center">PlayMood</h1>
 <p align="center">Juega con tu estado de ánimo</p>
 
 
