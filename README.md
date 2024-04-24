@@ -8,7 +8,7 @@
 ### Descripción
 
 
-### Equipo de trabajo:
+**Equipo de trabajo:**
 
 #### Diseñador:
 
