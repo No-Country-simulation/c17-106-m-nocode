@@ -27,8 +27,6 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 
 ## Futuras adiciones
 
-## Tecnologias utilizadas
-
 ## Equipo de trabajo
 
 ### Diseño:
@@ -49,3 +47,4 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 |----------|---------------------|-----------------------------------------|-----------------------------------------|
 | Ejemplo 1 | Ejemplo1@email.com  | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
+## Tecnologias utilizadas
