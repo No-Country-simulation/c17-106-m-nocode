@@ -47,4 +47,21 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 |----------|---------------------|-----------------------------------------|-----------------------------------------|
 | Ejemplo 1 | Ejemplo1@email.com  | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
-## Tecnologias utilizadas
+## Prueba de trabajo
+
+### Diseño
+
+
+
+--------------
+
+
+### Desarrollo
+#### Tecnologias utilizadas
+
+
+--------------
+
+
+### Testing
+
