@@ -1,6 +1,4 @@
-<h1 class="centered-title">Título centrado</h1>
-
-# c17-106-m-nocode
+<h1 align="center">c17-106-m-nocode</h1>
 
 --------------
 
@@ -13,8 +11,6 @@
 ## ¿Que somos?
 
 Somos un proyecto
-
---------------
 
 ## Propuesta de valor
 
@@ -29,7 +25,9 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 
 ## Futuras adiciones
 
-## Equipo de trabajo
+<h2 align="center">Equipo de trabajo 💼</h2>
+
+
 
 ### Diseño:
 | Nombre   | Github                                  | Linkedin                                |
