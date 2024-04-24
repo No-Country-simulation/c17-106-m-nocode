@@ -5,7 +5,7 @@
 </p>
 <p align="center">Juega con tu estado de ánimo</p>
 
-------------
+---
 ### Descripción
 
 
