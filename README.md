@@ -38,8 +38,8 @@
 | Ejemplo 1 | Ejemplo1@email.com  | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 --------------
-### Tecnologias utilizadas
---------------
 ### Testing
 --------------
 ### Futuras adiciones
+--------------
+### Tecnologias utilizadas
