@@ -3,7 +3,6 @@
   <img src="Logo PLaymood.png" alt="" width="200">
 </p>
 
-<h1 align="center">PlayMood</h1>
 
 
 ## Descripción
