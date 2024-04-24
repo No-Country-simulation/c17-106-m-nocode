@@ -1,5 +1,10 @@
 # c17-106-m-nocode
-<h1 align="center">PlayMood</h1>
+<p align="center">
+  <img src="ruta/a/la/imagen.jpg" alt="Descripción de la imagen">
+  <br>
+  <strong>PlayMood</strong>
+</p>
+
 
 ## Descripción
 
