@@ -24,7 +24,7 @@
 #### Diseñador:
 | Nombre   | Mail                | Github                                  | Linkedin                                |
 |----------|---------------------|-----------------------------------------|-----------------------------------------|
-| Ejemplo 1 | Ejemplo1@email.com  | [![Github](ruta/al/logo/github.png)](enlace/al/perfil/github)   | [![Linkedin](logo linkedin.png)](enlace/al/perfil/linkedin)|
+| Ejemplo 1 | Ejemplo1@email.com  | [![Github](/logos/github.png.png)](enlace/al/perfil/github)   | [![Linkedin](logo linkedin.png)](enlace/al/perfil/linkedin)|
 
 
 #### Desarrolladores:
