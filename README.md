@@ -31,8 +31,8 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 
 ### Diseño:
 | Nombre   | Github                                  | Linkedin                                |
-|----------|---------------------|-----------------------------------------|-----------------------------------------|
-| Ejemplo 1 | [Github](enlace/al/perfil/github)   | [Linkedin](enlace/al/perfil/linkedin)|
+|----------|-----------------------------------------|-----------------------------------------|
+| Ejemplo 1 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 
 ### Desarrollo:
@@ -44,8 +44,9 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 
 ### Tester & QA:
 | Nombre   | Github                                  | Linkedin                                |
-|----------|---------------------|-----------------------------------------|-----------------------------------------|
+|----------|-----------------------------------------|-----------------------------------------|
 | Ejemplo 1 | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+
 
 ## Prueba de trabajo
 
