@@ -1,3 +1,5 @@
+<h1 class="centered-title">Título centrado</h1>
+
 # c17-106-m-nocode
 
 --------------
