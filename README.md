@@ -1,7 +1,44 @@
-# c17-106-m-nocode Estamos trabajando...
+# c17-106-m-nocode Playmood
+
+
+**Sobre el proyecto
+**
+
+
+El propósito de nuestra proyecto es crear un sitio web que ayude a las personas a elegir cuál es el juego más adecuado para jugar según su estado de ánimo. Nos enfocamos en brindar una experiencia personalizada y empática, donde los usuarios puedan expresar cómo se sienten y nosotros les proporcionamos recomendaciones de juegos que se ajusten a sus emociones. Por ejemplo, si un usuario indica que se siente triste, nos encargamos de sugerirle juegos que puedan ayudarle a sobrellevar esas emociones de manera positiva.
+
+**Construido con
+**
+
+Bubble.io
+
+**Cómo acceder al proyecto
+**
+
+Para acceder a la preview del proyecto en funcionamiento, podés hacer click en el siguiente link: https://playmood-final-version.bubbleapps.io/version-test
+
+Para acceder al archivo de Figma del diseño del proyecto, podés hacer click en el siguiente link: https://www.figma.com/file/8GvjPCEUd6DQGIiseHbukL/Playmood?type=design&node-id=0-1&mode=design&t=9zZsQ8fr6aVWdx9C-0
+
+
+
+**Créditos
+**
+
+Desarrollo: 
+
+Valentín Hurtado
+Sofía Isoardi Prieto
+Elías Jacob
+
+Diseño: 
+
+Mauro Donatini
+
+Testing:
+
+Helen López
 
 
 
 
 
-https://playmood-final-version.bubbleapps.io/version-test
