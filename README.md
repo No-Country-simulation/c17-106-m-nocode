@@ -24,15 +24,15 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 
 ## 🕹 Funcionalidades
 
-- Creación de usuario con tu correo electrónico.
+- ✉ Creación de usuario con tu correo electrónico.
 
-- Confirmación del usuario a través de tu casilla de correo.
+- ✉ Confirmación del usuario a través de tu casilla de correo.
 
-- Login/Register completamente funcional.
+- ✉ Login/Register completamente funcional.
 
-- Gran variedad de estados de ánimo para poder representar de la mejor manera cómo te sientes en ese momento.
+- 🎮 Gran variedad de estados de ánimo para poder representar de la mejor manera cómo te sientes en ese momento.
 
-- Recomendaciones de juegos basadas en tu estado de ánimo.
+- 🎮 Recomendaciones de juegos basadas en tu estado de ánimo.
 
 ## 🕹 Futuras adiciones
 
