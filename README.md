@@ -6,6 +6,9 @@
 
 El propósito de nuestra proyecto es crear un sitio web que ayude a las personas a elegir cuál es el juego más adecuado para jugar según su estado de ánimo. Nos enfocamos en brindar una experiencia personalizada y empática, donde los usuarios puedan expresar cómo se sienten y nosotros les proporcionamos recomendaciones de juegos que se ajusten a sus emociones. Por ejemplo, si un usuario indica que se siente triste, nos encargamos de sugerirle juegos que puedan ayudarle a sobrellevar esas emociones de manera positiva.
 
+Además, comprendemos la diversidad de gustos y preferencias entre los jugadores, por lo que también ofrecemos una amplia variedad de géneros de videojuegos, como Role-Playing, Multijugador, Terror/Suspenso, entre otros. Esto permite que los usuarios puedan elegir el tipo de experiencia de juego que más les interese y se adapte a sus necesidades en ese momento. En resumen, nuestro proyecto está centrado en brindar un servicio integral que no solo ayuda a los jugadores a elegir el juego perfecto para su estado de ánimo, sino que también les ofrece una amplia gama de opciones para satisfacer sus preferencias de género.
+
+
 **Construido con**
 
 Bubble.io
