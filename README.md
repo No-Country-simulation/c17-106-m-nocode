@@ -1,7 +1,7 @@
-#c17-106-m-nocode Playmood
+# c17-106-m-nocode Playmood
 
 
-**Sobre el proyecto**
+## **Sobre el proyecto**
 
 
 El propósito de nuestra proyecto es crear un sitio web que ayude a las personas a elegir cuál es el juego más adecuado para jugar según su estado de ánimo. Nos enfocamos en brindar una experiencia personalizada y empática, donde los usuarios puedan expresar cómo se sienten y nosotros les proporcionamos recomendaciones de juegos que se ajusten a sus emociones. Por ejemplo, si un usuario indica que se siente triste, nos encargamos de sugerirle juegos que puedan ayudarle a sobrellevar esas emociones de manera positiva.
