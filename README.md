@@ -9,11 +9,11 @@ El propósito de nuestra proyecto es crear un sitio web que ayude a las personas
 Además, comprendemos la diversidad de gustos y preferencias entre los jugadores, por lo que también ofrecemos una amplia variedad de géneros de videojuegos, como Role-Playing, Multijugador, Terror/Suspenso, entre otros. Esto permite que los usuarios puedan elegir el tipo de experiencia de juego que más les interese y se adapte a sus necesidades en ese momento. En resumen, nuestro proyecto está centrado en brindar un servicio integral que no solo ayuda a los jugadores a elegir el juego perfecto para su estado de ánimo, sino que también les ofrece una amplia gama de opciones para satisfacer sus preferencias de género.
 
 
-**Construido con**
+## **Construido con**
 
 Bubble.io
 
-**Cómo acceder al proyecto**
+## **Cómo acceder al proyecto**
 
 Para acceder a la preview del proyecto en funcionamiento, podés hacer click en el siguiente link: https://playmood-final-version.bubbleapps.io/version-test
 
@@ -21,21 +21,21 @@ Para acceder al archivo de Figma del diseño del proyecto, podés hacer click en
 
 
 
-**Créditos**
+## **Créditos**
 
-Desarrollo: 
+### Desarrollo: 
 
-Valentín Hurtado
-Sofía Isoardi Prieto
-Elías Jacob
+-Valentín Hurtado
+-Sofía Isoardi Prieto
+-Elías Jacob
 
-Diseño: 
+### Diseño: 
 
-Mauro Donatini
+-Mauro Donatini
 
-Testing:
+### Testing:
 
-Helen López
+-Helen López
 
 
 
