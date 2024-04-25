@@ -11,7 +11,7 @@
 --------------
 ## 🕹 ¿Que somos?
 
-Somos un proyecto
+Somos un proyecto con la idea de ayudar a los jugadores. ¿Alguna vez les te ha pasado que, entre tantos juegos, no sabes qué elegir? ¿Que tal vez estás desanimado, estresado o feliz y no tienes idea de qué jugar? Nosotros ideamos este proyecto para ayudarte a solucionar esta problemática. Nos estamos enfocando en crear una página para el día a día, en la que puedas entrar las veces que quieras para que te recomendemos lo mejor para la emoción que sientas en el momento.
 
 ## 🕹 Propuesta de valor
 
