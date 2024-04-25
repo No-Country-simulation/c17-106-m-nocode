@@ -20,8 +20,6 @@ Comprendemos la diversidad de gustos y preferencias entre los jugadores, por lo 
 
 Nuestro proyecto está centrado en brindar un servicio integral que no solo ayuda a los jugadores a elegir el juego perfecto para su estado de ánimo, sino que también les ofrece una amplia gama de opciones para satisfacer sus preferencias de género.
 
-## 🕹 Caracteristicas
-
 ## 🕹 Funcionalidades
 
 - ✉ Creación de usuario con tu correo electrónico.
@@ -34,6 +32,12 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 
 - 🎮 Recomendaciones de juegos basadas en tu estado de ánimo.
 
+## 🕹 Caracteristicas
+
+- 🔧 Filtros por estado de ánimo.
+
+- 🔧 Búsqueda de juegos seleccionados por estado de ánimo.
+
 ## 🕹 Futuras adiciones
 
 - ⚙ Preguntas para definir tu perfil de usuario y generar mejores 
@@ -43,6 +47,8 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 - ⚙ Recomendación de los juegos que tengas en tu biblioteca de Steam.
   
 - ⚙ Recomendación de **ofertas** de juegos que NO tengas comprados.
+
+- ⚙ Sistema de desarrolladores/juegos favoritos.
   
 - ⚙ Análisis de los requisitos de tu PC para recomendar juegos acordes a los mismos.
   
