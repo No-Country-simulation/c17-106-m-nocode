@@ -24,7 +24,29 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 
 ## 🕹 Funcionalidades
 
+- Creación de usuario con tu correo electrónico.
+
+- Confirmación del usuario a través de tu casilla de correo.
+
+- Login/Register completamente funcional.
+
+- Gran variedad de estados de ánimo para poder representar de la mejor manera cómo te sientes en ese momento.
+
+- Recomendaciones de juegos basadas en tu estado de ánimo.
+
 ## 🕹 Futuras adiciones
+
+- ⚙ Preguntas para definir tu perfil de usuario y generar mejores 
+
+- ⚙ Conexión con tu biblioteca de Steam.
+  
+- ⚙ Recomendación de los juegos que tengas en tu biblioteca de Steam.
+  
+- ⚙ Recomendación de **ofertas** de juegos que NO tengas comprados.
+  
+- ⚙ Análisis de los requisitos de tu PC para recomendar juegos acordes a los mismos.
+  
+- ⚙ Posibilidad de iniciar sesión con Google, Facebook y otros.
 
 <h2 align="center">💼 Equipo de trabajo</h2>
 
