@@ -26,7 +26,9 @@ Para acceder al archivo de Figma del diseño del proyecto, podés hacer click en
 ### Desarrollo: 
 
 -Valentín Hurtado
+
 -Sofía Isoardi Prieto
+
 -Elías Jacob
 
 ### Diseño: 
