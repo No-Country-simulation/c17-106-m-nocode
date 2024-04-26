@@ -18,6 +18,8 @@
 
 ## 💼 Prueba de trabajo
 
+###
+
 ## Enfoque en Testing y QA
 
 ### Planificación de pruebas
@@ -36,11 +38,6 @@ Durante la fase de desarrollo, nuestra Tester supervisó la ejecución de los ca
 
 La contribución de nuestra Tester fue clave para garantizar la calidad del producto final. Su experiencia y enfoque metódico no solo ayudaron a identificar defectos, sino que también contribuyeron a mejorar la usabilidad y la experiencia del usuario.
 
-### Síntesis y Conclusiones
+### Importancia en el proyecto
 
 El trabajo dedicado de nuestra Tester fue fundamental para el éxito del proyecto. Su enfoque en el testing y la garantía de calidad aseguró que la plataforma de recomendación de juegos fuera robusta, funcional y libre de defectos significativos. Aprendimos la importancia crítica del testing en el ciclo de desarrollo de software y valoramos profundamente la contribución de un equipo dedicado de testing y QA.
-
-
-
-
-
