@@ -54,6 +54,12 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
   
 - ⚙ Posibilidad de iniciar sesión con Google, Facebook y otros.
 
+<h2 align="center">🎮 Nuestro proyecto</h2>
+### Como probar nuestro proyecto
+
+Puedes probarlo atraves del siguiente link:
+https://playmood-final-version.bubbleapps.io/version-test
+
 <h2 align="center">💼 Equipo de trabajo</h2>
 
 ### Diseño:
