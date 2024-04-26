@@ -19,36 +19,50 @@
 ## 💼 Prueba de trabajo
 
 ---
-### 🔧 Herramientas de trabajo
+### 🔧 Herramientas de Trabajo
 
-Nuesta Tester utilizo varias herramientas de trabajo durante el desarrollo del proyecto. Entre ellas:
+Durante el desarrollo del proyecto, nuestra Tester utilizó varias herramientas para llevar a cabo el testing y la garantía de calidad:
 
-### Excel 
-Donde utilizo las herramientas que le proporciona este programa para realizar los casos de prueba y llevar constancia de los mismos.
+- **Excel:** Utilizó las funcionalidades proporcionadas por este programa para diseñar y llevar un registro detallado de los casos de prueba. Los archivos de los casos de prueba estan cargados en esta rama.
 
-### Trello
-[QA HELEN LOPEZ](https://trello.com/b/cuaso0Km/qa-helen-lopez)    
+- **Trello:** Nuestra Tester organizó y gestionó los casos de prueba utilizando Trello. Pueden encontrar más detalles sobre su trabajo en [QA HELEN LOPEZ](https://trello.com/b/cuaso0Km/qa-helen-lopez).
 
 ---
 
 ### 🕹 Enfoque en Testing y QA
 
-#### 🎮 Planificación de pruebas
+#### 🎮 Planificación de Pruebas
 
-Nuestra Tester desempeñó un papel fundamental. Colaboró estrechamente con el equipo para identificar requisitos y criterios de aceptación claros, que sirvieron como base para el diseño de casos de prueba efectivos.
+Nuestra Tester desempeñó un papel fundamental en la fase de planificación. Colaboró estrechamente con el equipo para identificar requisitos y criterios de aceptación claros, que sirvieron como base para el diseño de casos de prueba efectivos.
 
-#### 🎮 Creación de casos de Prueba
+#### 🎮 Creación de Casos de Prueba
 
-Utilizando Trello como herramienta de gestión, nuestra Tester organizó y creó unos archivos de los casos de prueba que cubrían los aspectos funcionales del sistema y sus errores. Esto incluyó pruebas de interfaz, funcionalidad, rendimiento y seguridad.
+Utilizando Trello como herramienta de gestión, nuestra Tester organizó y diseñó una serie de casos de prueba exhaustivos que abarcaron los aspectos funcionales del sistema, incluyendo pruebas de interfaz, funcionalidad, rendimiento y seguridad.
 
 #### 🎮 Ejecución y Seguimiento
 
-Durante la fase de desarrollo, nuestra Tester supervisó la ejecución de los casos de prueba y colaboró estrechamente con los desarrolladores para informar sobre los problemas detectados. Su enfoque meticuloso garantizó la detección de errores y su resolución oportuna.
+Durante la fase de desarrollo, nuestra Tester supervisó la ejecución de los casos de prueba y colaboró estrechamente con los desarrolladores para informar sobre los problemas detectados. Su enfoque meticuloso garantizó la detección temprana de errores y su resolución oportuna.
 
 #### 🎮 Garantía de Calidad
 
 La contribución de nuestra Tester fue clave para garantizar la calidad del producto final. Su experiencia y enfoque metódico no solo ayudaron a identificar defectos, sino que también contribuyeron a mejorar la usabilidad y la experiencia del usuario.
 
-### 🎮 Importancia en el proyecto
+---
+
+### 🎮 Importancia en el Proyecto
 
 El trabajo dedicado de nuestra Tester fue fundamental para el éxito del proyecto. Su enfoque en el testing y la garantía de calidad aseguró que la plataforma de recomendación de juegos fuera robusta, funcional y libre de defectos significativos. Aprendimos la importancia crítica del testing en el ciclo de desarrollo de software y valoramos profundamente la contribución de un equipo dedicado de testing y QA.
+
+---
+
+### 📋 Casos de Prueba
+
+A continuación, mostramos algunos ejemplos de los casos de prueba diseñados y ejecutados por nuestra Tester:
+
+![Tabla de valores](QA/casoDePruebas.png)
+
+![Resultados de inicio de sesión](QA/casoDePruebas1.png)
+
+![Resultados de elección de géneros](QA/casoDePruebas2.png)
+
+---
