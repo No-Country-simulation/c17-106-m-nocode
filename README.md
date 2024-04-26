@@ -44,10 +44,6 @@ Durante el proyecto, enfrentamos desafíos significativos en el diseño UX/UI, c
 #### 🔁 Iteraciones y versiones anteriores
 Inicialmente, realizamos pruebas y diseñamos versiones anteriores para mejorar la usabilidad y la estética de la aplicación. Luego de estas pruebas, cambios de logos y explorar diseños llegamos al diseño final. A continuación, presentamos los logos anteriores junto con el diseño final para mostrar la evolución del proyecto:
 
-| ![Imagen Grande](fotosDelProyecto/bubblediseñoviejo.png) | ![Imagen Pequeña 1](fotosDelProyecto/bubblediseño.png) |
-|:--:|:--:|
-| **Primera versión de la elección de géneros** | **Versión actual de la elección de géneros** |
-
 | ![Imagen Grande](fotosDelProyecto/diseñoviejoGeneros.png) | ![Imagen Pequeña 1](fotosDelProyecto/diseñonuevoGeneros.png) |
 |:--:|:--:|
 | **Primera versión de la bienvenida** | **Versión actual de la bienvenida** |
@@ -56,6 +52,9 @@ Inicialmente, realizamos pruebas y diseñamos versiones anteriores para mejorar 
 |:--:|:--:|
 | **Primera versión del logo** | **Versión actual del logo** |
 
+| ![Imagen Grande](fotosDelProyecto/bubblediseñoviejo.png) | ![Imagen Pequeña 1](fotosDelProyecto/bubblediseño.png) |
+|:--:|:--:|
+| **Primera versión de la elección de géneros** | **Versión actual de la elección de géneros** |
 
 Incluso consideramos desarrollar una aplicación móvil para facilitar el uso en situaciones cotidianas. Aunque esta idea no fue implementada en esta simulación debido a la complejidad del proyecto, no ha sido descartada totalmente y puede ser un punto a considerar en el futuro.
 
