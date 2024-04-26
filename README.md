@@ -9,7 +9,10 @@
 --------------
 
 <h2 align="center">💼 Equipo de trabajo</h2>
--Helen López
+### Tester & QA:
+| Nombre   | Github                                  | Linkedin                                |
+|----------|-----------------------------------------|-----------------------------------------|
+| Helen López | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 
 
