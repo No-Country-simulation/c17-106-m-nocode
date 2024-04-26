@@ -79,6 +79,12 @@ Este proyecto nos ha permitido consolidar nuestras habilidades en el diseño de 
 A continuación, compartimos algunas imágenes que destacan el trabajo realizado durante el proyecto:
 
 
+| ![Imagen Grande](fotosDelProyecto/bubble1.png) | ![Imagen Pequeña 1](fotosDelProyecto/bubble2.png) |
+|:--:|:--:|
+
+
+![Imagen Pequeña 2](fotosDelProyecto/bubble3.png)
+
 
 
 
