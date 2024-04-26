@@ -24,9 +24,11 @@
 
 ### ⚙ ¿Cómo probar nuestro proyecto?
 
-Te invitamos a probar nuestra plataforma a través del siguiente enlace:
+Te invitamos a descubrir nuestra plataforma a través del siguiente enlace:
 
 [Acceder al proyecto](https://playmood-final-version.bubbleapps.io/version-test)
+
+Durante este período de simulación, estuvimos trabajando en esto.
 
 --- 
 
@@ -53,6 +55,12 @@ En esta etapa, comenzamos a realizar encuestas y recopilar feedback de terceros.
 
 #### • Etapa 4: Desarrollo y Lecciones Aprendidas
 Durante el desarrollo del proyecto, cada miembro del equipo se centró en una tarea específica e indispensable. Esta fase nos permitió adquirir valiosas lecciones y habilidades. Aprendimos a trabajar de manera colaborativa, a superar obstáculos técnicos y a adaptarnos a las necesidades del proyecto. La experiencia nos ha demostrado la importancia de la perseverancia y la flexibilidad en el desarrollo de proyectos innovadores.
+
+### 📋 Encuestas
+
+A continuación, dejamos constancia de las encuestas realizadas como precedente:
+
+[Ver la encuesta](enlace_a_las_encuentas)
 
 <h2 align="center">🎮 Fotos del proyecto</h2>
 
