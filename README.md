@@ -40,7 +40,7 @@ Nuestro proyecto está centrado en brindar un servicio integral que no solo ayud
 
 ## 🕹 Futuras adiciones
 
-- ⚙ Preguntas para definir tu perfil de usuario y generar mejores 
+- ⚙ Preguntas para definir tu perfil de usuario y generar mejores recomendaciones.  
 
 - ⚙ Conexión con tu biblioteca de Steam.
   
