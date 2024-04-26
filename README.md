@@ -52,8 +52,15 @@ Incluso consideramos desarrollar una aplicación móvil para facilitar el uso en
 ### 🎯 Objetivo: Intuitivo y Funcional
 Nuestra página está diseñada para ser intuitiva y fácil de manejar, adecuada para un uso diario sin complicaciones.
 
-### 🎨 Enfoque del proyecto en el *Diseño*
-A lo largo de este proyecto, nuestro equipo se centró en crear una experiencia de usuario excepcional mediante un diseño cuidadosamente elaborado. Nos enfrentamos a desafíos clave en el desarrollo UX/UI, priorizando la accesibilidad y la funcionalidad para ofrecer un producto final de calidad.
+### 🎨 Enfoque del proyecto en el **Diseño**
+
+Durante este proyecto, nuestro equipo se comprometió a crear una experiencia de usuario excepcional mediante un diseño cuidadosamente elaborado.
+
+Exploramos diversas iteraciones y prototipos antes de llegar al diseño final, abordando comentarios y realizando ajustes para mejorar la usabilidad y la estética. A lo largo del proceso, nuestra meta fue priorizar la accesibilidad y la comodidad, asegurando que la plataforma fuera intuitiva y fácil de manejar para usuarios de todos los niveles.
+
+Nuestro enfoque en el diseño no solo se centró en la estética, sino también en la funcionalidad práctica. Cada elemento visual y de interacción fue cuidadosamente considerado para ofrecer una buena experiencia de usuario.
+
+Este proyecto nos ha permitido consolidar nuestras habilidades en el diseño de experiencias de usuario, así como aprender a abordar desafíos complejos de manera creativa y colaborativa. Estamos orgullosos del resultado final y confiamos en que nuestra plataforma brindará una experiencia única y atractiva para nuestros usuarios.
 
 ### Galería de Proyectos
 A continuación, compartimos algunas imágenes que destacan el trabajo realizado durante el proyecto:
