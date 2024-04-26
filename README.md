@@ -18,7 +18,7 @@
 
 ## 💼 Prueba de trabajo
 
-## Proyecto: Plataforma de Recomendación de Juegos - Enfoque en Testing y QA
+## Enfoque en Testing y QA
 
 ### Planificación de pruebas
 
