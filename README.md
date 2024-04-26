@@ -31,7 +31,9 @@ Durante el desarrollo de nuestro proyecto, utilizamos Figma como herramienta pri
   
 - **WorkFlow del Proyecto:** Para visualizar el flujo de trabajo del proyecto, consulta este [enlace](https://www.figma.com/file/Jf8QA2G79Vi4ZjrTMa9LqS/Flow-Chart-PlayMood?type=whiteboard&node-id=0-1&t=8tGSWETXvJ45zgp4-0).
 
+
 Todo el diseño fue creado e ideado por nuestro diseñador.
+
 ---
 
 ### 🕹 Durante el proyecto
