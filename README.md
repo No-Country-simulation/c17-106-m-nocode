@@ -21,4 +21,22 @@
 
 ## 💼 Prueba de trabajo
 
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <!-- Imagen grande a la izquierda -->
+    <img src="fotosDelProyecto/bubble1.png" alt="Imagen grande" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column;">
+    <div style="flex: 1;">
+      <!-- Primera imagen pequeña arriba a la derecha -->
+      <img src="fotosDelProyecto/bubble2.png" alt="Imagen pequeña 1" style="width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1;">
+      <!-- Segunda imagen pequeña abajo a la derecha -->
+      <img src="fotosDelProyecto/bubble3.png" alt="Imagen pequeña 2" style="width: 100%; height: auto;">
+    </div>
+  </div>
+</div>
+
+
 
