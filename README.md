@@ -52,7 +52,7 @@ Inicialmente, realizamos pruebas y diseñamos versiones anteriores para mejorar 
 |:--:|:--:|
 | **Primera versión del logo** | **Versión actual del logo** |
 
-| ![Imagen Grande](fotosDelProyecto/bubblediseñoviejo.png) | ![Imagen Pequeña 1](fotosDelProyecto/bubblediseño.png) |
+| ![Imagen Grande](fotosDelProyecto/bubblediseñoviejo.png) | ![Imagen Pequeña 1](fotosDelProyecto/bubblediseño1.png) |
 |:--:|:--:|
 | **Primera versión de la elección de géneros** | **Versión actual de la elección de géneros** |
 
