@@ -10,7 +10,12 @@
 
 <h2 align="center">💼 Equipo de trabajo</h2>
 
+### Diseño:
+
+| Nombre   | Github                                  | Linkedin                                |
+|----------|-----------------------------------------|-----------------------------------------|
+| Mauro Donatini | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 
-
+## 💼 Prueba de trabajo
 
