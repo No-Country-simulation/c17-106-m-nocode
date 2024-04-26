@@ -59,10 +59,12 @@ El trabajo dedicado de nuestra Tester fue fundamental para el éxito del proyect
 
 A continuación, mostramos algunos ejemplos de los casos de prueba diseñados y ejecutados por nuestra Tester:
 
-![Tabla de valores](QA/casoDePruebas.png)
+| ![Imagen Grande](QA/casoDePruebas.png) | ![Imagen Pequeña 1](QA/casoDePruebas1.png) |
+|:--:|:--:|
+| **Tabla de valores** | **Resultados de inicio de sesion** |
 
-![Resultados de inicio de sesión](QA/casoDePruebas1.png)
-
-![Resultados de elección de géneros](QA/casoDePruebas2.png)
+| ![Imagen Pequeña 2](QA/casoDePruebas2.png) |
+|:--:|
+| **Resultados de eleccion de generos** |
 
 ---
