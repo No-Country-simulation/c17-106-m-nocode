@@ -49,7 +49,7 @@ La contribución de nuestra Tester fue clave para garantizar la calidad del prod
 
 ---
 
-### 🎮 Importancia en el Proyecto
+### 🕹 Importancia en el Proyecto
 
 El trabajo dedicado de nuestra Tester fue fundamental para el éxito del proyecto. Su enfoque en el testing y la garantía de calidad aseguró que la plataforma de recomendación de juegos fuera robusta, funcional y libre de defectos significativos. Aprendimos la importancia crítica del testing en el ciclo de desarrollo de software y valoramos profundamente la contribución de un equipo dedicado de testing y QA.
 
