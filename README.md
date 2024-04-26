@@ -1,45 +1,76 @@
-# c17-106-m-nocode Playmood
+<h1 align="center">c17-106-m-nocode</h1>
+<br/>
 
-
-## **Sobre el proyecto**
-
-
-El propósito de nuestra proyecto es crear un sitio web que ayude a las personas a elegir cuál es el juego más adecuado para jugar según su estado de ánimo. Nos enfocamos en brindar una experiencia personalizada y empática, donde los usuarios puedan expresar cómo se sienten y nosotros les proporcionamos recomendaciones de juegos que se ajusten a sus emociones. Por ejemplo, si un usuario indica que se siente triste, nos encargamos de sugerirle juegos que puedan ayudarle a sobrellevar esas emociones de manera positiva.
-
-Además, comprendemos la diversidad de gustos y preferencias entre los jugadores, por lo que también ofrecemos una amplia variedad de géneros de videojuegos, como Role-Playing, Multijugador, Terror/Suspenso, entre otros. Esto permite que los usuarios puedan elegir el tipo de experiencia de juego que más les interese y se adapte a sus necesidades en ese momento. En resumen, nuestro proyecto está centrado en brindar un servicio integral que no solo ayuda a los jugadores a elegir el juego perfecto para su estado de ánimo, sino que también les ofrece una amplia gama de opciones para satisfacer sus preferencias de género.
-
-
-## **Construido con**
-
-Bubble.io
-
-## **Cómo acceder al proyecto**
-
-Para acceder a la preview del proyecto en funcionamiento, podés hacer click en el siguiente link: https://playmood-final-version.bubbleapps.io/version-test
-
-Para acceder al archivo de Figma del diseño del proyecto, podés hacer click en el siguiente link: https://www.figma.com/file/8GvjPCEUd6DQGIiseHbukL/Playmood?type=design&node-id=0-1&mode=design&t=9zZsQ8fr6aVWdx9C-0
+<p align="center">
+  <img src="logos/Logo Playmood.png" alt="Logo del proyecto" width="250">
+</p>
+<p align="center">Juega con tu estado de ánimo</p>
 
 
 
-## **Créditos**
+--------------
+## 🕹 ¿Que somos?
 
-### Desarrollo: 
+Somos un proyecto con la idea de ayudar a los jugadores. ¿Alguna vez les te ha pasado que, entre tantos juegos, no sabes qué elegir? ¿Que tal vez estás desanimado, estresado o feliz y no tienes idea de qué jugar? Nosotros ideamos este proyecto para ayudarte a solucionar esta problemática. Nos estamos enfocando en crear una página para el día a día, en la que puedas entrar las veces que quieras para que te recomendemos lo mejor para la emoción que sientas en el momento.
 
--Valentín Hurtado
+## 🕹 Propuesta de valor
 
--Sofía Isoardi Prieto
+El propósito de este proyecto es crear un espacio dedicado a los jugadores de videojuegos. Nuestro principal objetivo es ayudarlos a elegir el juego más adecuado según su estado de ánimo, proporcionando recomendaciones de juegos ajustados sus emociones.
+Comprendemos la diversidad de gustos y preferencias entre los jugadores, por lo que también ofrecemos una amplia variedad de géneros de videojuegos, como Role-Playing, Multijugador, Terror/Suspenso, entre otros. Esto permite que los usuarios puedan elegir el tipo de experiencia de juego que más les interese y se adapte a sus necesidades en ese momento. 
 
--Elías Jacob
+Nuestro proyecto está centrado en brindar un servicio integral que no solo ayuda a los jugadores a elegir el juego perfecto para su estado de ánimo, sino que también les ofrece una amplia gama de opciones para satisfacer sus preferencias de género.
 
-### Diseño: 
+## 🕹 Funcionalidades
 
--Mauro Donatini
+- ✉ Creación de usuario con tu correo electrónico.
 
-### Testing:
+- ✉ Confirmación del usuario a través de tu casilla de correo.
 
--Helen López
+- ✉ Login/Register completamente funcional.
+
+- 🎮 Gran variedad de estados de ánimo para poder representar de la mejor manera cómo te sientes en ese momento.
+
+- 🎮 Recomendaciones de juegos basadas en tu estado de ánimo.
+
+## 🕹 Caracteristicas
+
+- 🔧 Filtros por estado de ánimo.
+
+- 🔧 Búsqueda de juegos seleccionados por estado de ánimo.
+
+## 🕹 Futuras adiciones
+
+- ⚙ Preguntas para definir tu perfil de usuario y generar mejores 
+
+- ⚙ Conexión con tu biblioteca de Steam.
+  
+- ⚙ Recomendación de los juegos que tengas en tu biblioteca de Steam.
+  
+- ⚙ Recomendación de **ofertas** de juegos que NO tengas comprados.
+
+- ⚙ Sistema de desarrolladores/juegos favoritos.
+  
+- ⚙ Análisis de los requisitos de tu PC para recomendar juegos acordes a los mismos.
+  
+- ⚙ Posibilidad de iniciar sesión con Google, Facebook y otros.
+
+<h2 align="center">💼 Equipo de trabajo</h2>
+
+### Diseño:
+| Nombre   | Github                                  | Linkedin                                |
+|----------|-----------------------------------------|-----------------------------------------|
+| Mauro Donatini | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
 
+### Desarrollo:
+| Nombre   | Github                                  | Linkedin                                |
+|----------|-----------------------------------------|-----------------------------------------|
+| Sofia Isoardi Prieto | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Elias David Jacob | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
+| Valentin Noel Hurtado | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
-
+### Tester & QA:
+| Nombre   | Github                                  | Linkedin                                |
+|----------|-----------------------------------------|-----------------------------------------|
+| Helen López | [Github](enlace/al/perfil/github)    | [Linkedin](enlace/al/perfil/linkedin)|
 
