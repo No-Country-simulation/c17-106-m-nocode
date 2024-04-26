@@ -28,7 +28,7 @@ Te invitamos a descubrir nuestra plataforma a través del siguiente enlace:
 
 [Acceder al proyecto](https://playmood-final-version.bubbleapps.io/version-test)
 
-Durante este período de simulación, estuvimos trabajando en esto.
+Durante este período de simulación, estuvimos trabajando en esto con la plataforma [Bubble.io](https://bubble.io/home).
 
 --- 
 
