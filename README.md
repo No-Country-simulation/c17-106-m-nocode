@@ -60,7 +60,7 @@ Durante el desarrollo del proyecto, cada miembro del equipo se centró en una ta
 
 A continuación, dejamos constancia de las encuestas realizadas como precedente:
 
-[Ver la encuesta](enlace_a_las_encuentas)
+[Ver la encuesta](https://docs.google.com/forms/d/e/1FAIpQLSemtbl5SDS1regZZlLIFHEhBYTvfyzJCsqAwhb617ron8e_Qw/viewform)
 
 <h2 align="center">🎮 Fotos del proyecto</h2>
 
