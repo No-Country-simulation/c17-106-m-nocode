@@ -68,6 +68,10 @@ Te invitamos a probar nuestra plataforma a través del siguiente enlace:
 
 --- 
 
+### Exploración detallada del proyecto: Ramas y Etiquetas
+
+Les invitamos a explorar las otras ramas (branches) y etiquetas (tags) del repositorio, donde encontrarán más información sobre el proyecto y el trabajo realizado durante el mismo.
+
 <h2 align="center">💼 Equipo de trabajo</h2>
 
 ### Diseño:
